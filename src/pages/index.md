@@ -4,9 +4,7 @@ sections:
   - type: hero_section
     title: 'Ok, changing this right now.'
     subtitle: 'Yup, this too.'
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: ' Yup Yup Yup Yup Yup  Yup Yup Yup Yup Yup  Yup Yup Yup Yup Yup  Yup Yup Yup Yup Yup  Yup Yup Yup Yup Yup  Yup Yup Yup Yup Yup'
     actions:
       - label: Try Free
         url: /pricing
